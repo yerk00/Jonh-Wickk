@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "/static/image/1ro.jpg",
+        "name": "Marko Zaror Chidi"
+    },
+
+    {
+        "id": 2,
+        "imgsrc": "/static/image/2do.jpg",
+        "name": "Bill Skargs"
+    },
+
+    {
+        "id": 3,
+        "imgsrc": "/static/image/3ro.jpg",
+        "name": "Keanu Reeves Jonh Wick"
+    },
+
+    {
+        "id": 4,
+        "imgsrc": "/static/image/4to.jpg",
+        "name": "Hiroyuki"
+    },
+
+    {
+        "id": 5,
+        "imgsrc": "/static/image/5to.jpg",
+        "name": "Brahim Chad Thug 1"
+    }
+
+]
