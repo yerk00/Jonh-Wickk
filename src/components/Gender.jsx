@@ -1,10 +1,11 @@
-import { Chip } from './Chip'
 import React from 'react'
+import { Chip } from './Chip'
 import './Gender.css'
 
-export const Gender = ({movie}) => {
+export const Gender = ({peli}) => {
   // const movie = props.movie
-  const gender = movie.gender
+  // const gender = movie.gender
+  const gender = peli.Genre ? peli.Genre.split(",") : [];
   return (
     <div className='gender-container'>
     {
