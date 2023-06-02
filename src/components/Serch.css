@@ -9,12 +9,15 @@
     justify-content: center;
 }
 
-.info{
-    /* font-family: 'Istok Web'; */
-    font-style: normal;
-    font-weight: 400;
+
+.info input{
+    text-align: center;
+    width: 80%;
+    font-family: 'Istok Web';
     font-size: 12px;
-    line-height: 17px;
-    align-items: center;
+    font-style: normal;
+    border: #FFFCF3;
+    outline: none;
+    background-color: transparent;
     color: #6A536A;
 }

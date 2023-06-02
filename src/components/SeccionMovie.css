@@ -1,5 +1,23 @@
 .seccion-container{
     width: 100%;
-    height: 121px;
-    margin: 0 0 0 12px;
+    /* padding: 5px 0px 5px 5px; */
+    margin: 15px;
+}
+
+.title{
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #6A536A;
+}
+
+.slider{
+    width: 100%;
+    display: flex;
+    overflow-x: scroll;
+    justify-content: space-between;
+
 }

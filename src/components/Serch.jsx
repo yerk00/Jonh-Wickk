@@ -1,11 +1,12 @@
 import React from 'react'
 import './Serch.css'
 
-const Serch = () => {
+ export const Serch = () => {
   return (
     <div className='serch' onClick={()=>{}}>
         
         <span className='info'>Serach Movie</span>
+        
     </div>
   )
 }

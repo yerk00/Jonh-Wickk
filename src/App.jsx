@@ -1,4 +1,4 @@
-import { MovieMain } from "./components/MovieMain";
+import { MovieCard, MovieMain } from "./components/MovieCard";
 import "./App.css";
 import { TopCastContainer } from "./components/TopCastContainer";
 import { BookingButton } from "./components/BookingButton";
@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <MovieMain peli={peli} />
+      <MovieCard peli={peli} />
 
       <TopCastContainer pelis={peli}/>
 

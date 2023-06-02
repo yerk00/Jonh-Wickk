@@ -1,0 +1,14 @@
+.movie-card-container{
+    width: 96px;
+    height: 121px;
+    border-radius: 17px;
+    background-color: orange;
+    margin: 20px;
+
+}
+
+.movie-card-container img{
+    width: 96px;
+    height: 121px;
+    border-radius: 17px;
+}
